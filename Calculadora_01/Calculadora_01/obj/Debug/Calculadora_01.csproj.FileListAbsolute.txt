@@ -1,0 +1,19 @@
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\bin\Debug\Calculadora_01.exe.config
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\bin\Debug\Calculadora_01.exe
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\bin\Debug\Calculadora_01.pdb
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.csprojAssemblyReference.cache
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.Form1.resources
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.Properties.Resources.resources
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.csproj.GenerateResource.cache
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.csproj.CoreCompileInputs.cache
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.exe
+C:\Users\AnderMeister\source\repos\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.pdb
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\bin\Debug\Calculadora_01.exe.config
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\bin\Debug\Calculadora_01.exe
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\bin\Debug\Calculadora_01.pdb
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.csprojAssemblyReference.cache
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.Form1.resources
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.Properties.Resources.resources
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.csproj.GenerateResource.cache
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.exe
+C:\Users\Will-PC\Desktop\Nova pasta\Calculadora_01\Calculadora_01\obj\Debug\Calculadora_01.pdb
